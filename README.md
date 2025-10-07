@@ -175,4 +175,4 @@ If you have any questions or need help, please open an issue on GitHub or contac
 
 ---
 
-**Made with ❤️ by [basant-gautam](https://github.com/basant-gautam)**
+**Made with ❤️ **
